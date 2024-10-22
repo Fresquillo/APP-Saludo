@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaludApp</string>
+    <string name="textoBoton">Pulsa aquí</string>
+    <string name="Nombre">Escribe tu nombre</string>
+</resources>
